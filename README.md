@@ -1,4 +1,4 @@
-# ![](https://github.com/intsuc/intsuc/blob/master/intsuc.png) intsuc
+# ![](https://github.com/intsuc/intsuc/blob/main/intsuc.png) intsuc
 
 - Minecraft
   - Data Packs
