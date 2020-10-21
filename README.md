@@ -4,4 +4,6 @@
   - Data Packs
 - Computer Science
   - Logic
+  - Type Theory
+  - Category Theory
   - Programming Languages
