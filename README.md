@@ -11,4 +11,4 @@ I'm designing/developing a practical programming language for Minecraft.
 
 ## Languages
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=intsuc&bg_color=00000000&text_color=79b8ff&hide_border=true&hide_title=true&layout=compact&card_width=800)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=intsuc&bg_color=00000000&text_color=539bf5&hide_border=true&hide_title=true&layout=compact&card_width=800)
