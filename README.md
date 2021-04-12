@@ -1,6 +1,6 @@
 # ![](https://github.com/intsuc/intsuc/blob/main/intsuc.png) intsuc
 
-I'm designing/developing a practical programming language for Minecraft.
+I'm researching programming languages for Minecraft.
 
 ## Interests
 - Minecraft
