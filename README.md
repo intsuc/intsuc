@@ -11,4 +11,4 @@ I'm researching programming languages for Minecraft.
 
 ## Languages
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=intsuc&bg_color=00000000&text_color=2981e5&hide_border=true&hide_title=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=intsuc&hide_border=true&hide_title=true&layout=compact)
