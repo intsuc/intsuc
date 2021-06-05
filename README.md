@@ -6,7 +6,7 @@ I'm researching programming languages for Minecraft.
 - Minecraft
 - Programming Languages
 - Formal Verfication
-- Structure Editors
+- Structured Editors
 - Constructed Languages
 
 ## Languages
