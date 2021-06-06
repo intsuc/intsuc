@@ -1,7 +1,12 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/intsuc/intsuc/main/intsuc.png" />
+</p>
+
+<p align="center">
   <samp>I'm researching programming languages for Minecraft.</samp>
 </p>
+
+##
 
 ### <samp>Interests</samp>
 
